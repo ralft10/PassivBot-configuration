@@ -23,7 +23,7 @@
             "spread": 0.0151
         }
     },
-    "market_stop_loss": false,
+    "market_stop_loss": true,
     "stop_loss_liq_diff": 0.0358,
     "stop_loss_pos_price_diff": 0.1244,
     "stop_loss_pos_reduction": 0.093,
