@@ -1,6 +1,6 @@
 {
     "config_name": "ada_20210309",
-    "symbol": "ADAUSDT",
+    "symbol": "BUSDUSDT",
     "logging_level": 0,
     "cross_mode": true,
     "balance_pct": 0.104,
