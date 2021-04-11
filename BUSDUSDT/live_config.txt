@@ -27,5 +27,4 @@
     "stop_loss_liq_diff": 0.0615,
     "stop_loss_pos_price_diff": 0.0819,
     "stop_loss_pos_reduction": 0.066,
-    "key": "f92c7b20aec400ac83a716271f3ae27663e0aac332953296c43ad0bd51715c37"
 }
