@@ -1,5 +1,5 @@
 {
-    "config_name": "BUSD",
+    "config_name": "busd_20210411",
     "symbol": "BUSDUSDT",
     "logging_level": 0,
     "cross_mode": true,
